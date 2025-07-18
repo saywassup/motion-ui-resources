@@ -73,6 +73,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 
 ## Articles
 
+- [The World's Most Satisfying Checkbox](https://notbor.ing/words/the-most-satisfying-checkbox) by NotBoringSoftware
 - [Microsoft's Fluent 2 Motion Design](https://fluent2.microsoft.design/motion) by Microsoft
 - [The 10 Principles of Motion Design](https://blog.vmgstudios.com/10-principles-motion-design) by Adam Crawford
 - [Executing UX Animations: Duration and Motion Characteristics](https://www.nngroup.com/articles/animation-duration/) by Page Laubheimer
